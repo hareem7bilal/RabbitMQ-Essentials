@@ -1,0 +1,168 @@
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.deps.json
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.runtimeconfig.json
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.runtimeconfig.dev.json
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.dll
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.pdb
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.Views.dll
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.Views.pdb
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.csproj.AssemblyReference.cache
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.AssemblyInfoInputs.cache
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.AssemblyInfo.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorAssemblyInfo.cache
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorAssemblyInfo.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.TagHelpers.input.cache
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.TagHelpers.output.cache
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorCoreGenerate.cache
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\BackpackCal.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Booking.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\BookingCanceled.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\BookingConfirmed.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_HomePageLayout.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Tours.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.Views.pdb
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.dll
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.pdb
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.genruntimeconfig.cache
+C:\Users\hbilal\Downloads\Ex_Files_RabbitMQ_Upd\Exercise Files\Ch_02\02_01 Begin\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreC.41738271.Up2Date
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.deps.json
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.runtimeconfig.json
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.runtimeconfig.dev.json
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.dll
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.pdb
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.Views.dll
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.Views.pdb
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.csproj.AssemblyReference.cache
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.AssemblyInfoInputs.cache
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.AssemblyInfo.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.csproj.CoreCompileInputs.cache
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorAssemblyInfo.cache
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorAssemblyInfo.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.TagHelpers.input.cache
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.TagHelpers.output.cache
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorCoreGenerate.cache
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\BackpackCal.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Booking.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\BookingCanceled.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\BookingConfirmed.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_HomePageLayout.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Tours.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorTargetAssemblyInfo.cache
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorTargetAssemblyInfo.cs
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.Views.pdb
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.dll
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.pdb
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.genruntimeconfig.cache
+C:\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreC.41738271.Up2Date
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.deps.json
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.runtimeconfig.json
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.runtimeconfig.dev.json
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.pdb
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.Views.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.Views.pdb
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.csproj.AssemblyReference.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.AssemblyInfoInputs.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.AssemblyInfo.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorAssemblyInfo.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorAssemblyInfo.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.TagHelpers.input.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.TagHelpers.output.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorCoreGenerate.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\BackpackCal.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Booking.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\BookingCanceled.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\BookingConfirmed.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_HomePageLayout.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Tours.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.Views.pdb
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.pdb
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.genruntimeconfig.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreC.41738271.Up2Date
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\appsettings.json
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.deps.json
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.runtimeconfig.json
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.runtimeconfig.dev.json
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.dll
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.pdb
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.Views.dll
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\bin\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.Views.pdb
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.csproj.AssemblyReference.cache
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.AssemblyInfoInputs.cache
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.AssemblyInfo.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.csproj.CoreCompileInputs.cache
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorAssemblyInfo.cache
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorAssemblyInfo.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.TagHelpers.input.cache
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.TagHelpers.output.cache
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorCoreGenerate.cache
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\About.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\BackpackCal.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Booking.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\BookingCanceled.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\BookingConfirmed.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Contact.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Error.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Index.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_HomePageLayout.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\Tours.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorTargetAssemblyInfo.cache
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.RazorTargetAssemblyInfo.cs
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.Views.pdb
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.dll
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.pdb
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.genruntimeconfig.cache
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreC.41738271.Up2Date

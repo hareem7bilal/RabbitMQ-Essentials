@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\hbilal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\hbilal\\.nuget\\packages"
+    ]
+  }
+}

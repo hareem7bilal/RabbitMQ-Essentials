@@ -1,0 +1,51 @@
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\ExploreCalifornia.EmailService.exe
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\ExploreCalifornia.EmailService.deps.json
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\ExploreCalifornia.EmailService.runtimeconfig.json
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\ExploreCalifornia.EmailService.dll
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\ExploreCalifornia.EmailService.pdb
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.csproj.AssemblyReference.cache
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.AssemblyInfoInputs.cache
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.AssemblyInfo.cs
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.csproj.CoreCompileInputs.cache
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreC.D44AA09C.Up2Date
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.dll
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\refint\ExploreCalifornia.EmailService.dll
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.pdb
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.genruntimeconfig.cache
+C:\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ref\ExploreCalifornia.EmailService.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\ExploreCalifornia.EmailService.exe
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\ExploreCalifornia.EmailService.deps.json
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\ExploreCalifornia.EmailService.runtimeconfig.json
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\ExploreCalifornia.EmailService.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\ExploreCalifornia.EmailService.pdb
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.csproj.AssemblyReference.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.AssemblyInfoInputs.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.AssemblyInfo.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.csproj.CoreCompileInputs.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreC.D44AA09C.Up2Date
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\refint\ExploreCalifornia.EmailService.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.pdb
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.genruntimeconfig.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ref\ExploreCalifornia.EmailService.dll
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\ExploreCalifornia.EmailService.exe
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\ExploreCalifornia.EmailService.deps.json
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\ExploreCalifornia.EmailService.runtimeconfig.json
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\ExploreCalifornia.EmailService.dll
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\ExploreCalifornia.EmailService.pdb
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.csproj.AssemblyReference.cache
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.GeneratedMSBuildEditorConfig.editorconfig
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.AssemblyInfoInputs.cache
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.AssemblyInfo.cs
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.csproj.CoreCompileInputs.cache
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreC.D44AA09C.Up2Date
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.dll
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\refint\ExploreCalifornia.EmailService.dll
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.pdb
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ExploreCalifornia.EmailService.genruntimeconfig.cache
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.EmailService\ExploreCalifornia.EmailService\obj\Debug\net8.0\ref\ExploreCalifornia.EmailService.dll

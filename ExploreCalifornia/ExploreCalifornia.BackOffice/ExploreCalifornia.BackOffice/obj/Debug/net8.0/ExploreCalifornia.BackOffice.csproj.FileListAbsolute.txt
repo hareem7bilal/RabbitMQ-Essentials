@@ -1,0 +1,51 @@
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\ExploreCalifornia.BackOffice.exe
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\ExploreCalifornia.BackOffice.deps.json
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\ExploreCalifornia.BackOffice.runtimeconfig.json
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\ExploreCalifornia.BackOffice.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\ExploreCalifornia.BackOffice.pdb
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.csproj.AssemblyReference.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.AssemblyInfoInputs.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.AssemblyInfo.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.csproj.CoreCompileInputs.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreC.0DD2BC39.Up2Date
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\refint\ExploreCalifornia.BackOffice.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.pdb
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.genruntimeconfig.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ref\ExploreCalifornia.BackOffice.dll
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\ExploreCalifornia.BackOffice.exe
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\ExploreCalifornia.BackOffice.deps.json
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\ExploreCalifornia.BackOffice.runtimeconfig.json
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\ExploreCalifornia.BackOffice.dll
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\ExploreCalifornia.BackOffice.pdb
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.csproj.AssemblyReference.cache
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.GeneratedMSBuildEditorConfig.editorconfig
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.AssemblyInfoInputs.cache
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.AssemblyInfo.cs
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.csproj.CoreCompileInputs.cache
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreC.0DD2BC39.Up2Date
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.dll
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\refint\ExploreCalifornia.BackOffice.dll
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.pdb
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.genruntimeconfig.cache
+C:\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ref\ExploreCalifornia.BackOffice.dll
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\ExploreCalifornia.BackOffice.exe
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\ExploreCalifornia.BackOffice.deps.json
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\ExploreCalifornia.BackOffice.runtimeconfig.json
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\ExploreCalifornia.BackOffice.dll
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\ExploreCalifornia.BackOffice.pdb
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.csproj.AssemblyReference.cache
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.GeneratedMSBuildEditorConfig.editorconfig
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.AssemblyInfoInputs.cache
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.AssemblyInfo.cs
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.csproj.CoreCompileInputs.cache
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreC.0DD2BC39.Up2Date
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.dll
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\refint\ExploreCalifornia.BackOffice.dll
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.pdb
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.genruntimeconfig.cache
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ref\ExploreCalifornia.BackOffice.dll
