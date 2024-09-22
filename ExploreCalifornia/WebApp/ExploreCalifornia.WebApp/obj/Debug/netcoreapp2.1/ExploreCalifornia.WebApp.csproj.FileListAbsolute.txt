@@ -166,3 +166,4 @@ C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcorea
 C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.pdb
 C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.genruntimeconfig.cache
 C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreC.41738271.Up2Date
+C:\RabbitMQ\ExploreCalifornia\WebApp\ExploreCalifornia.WebApp\obj\Debug\netcoreapp2.1\ExploreCalifornia.WebApp.sourcelink.json

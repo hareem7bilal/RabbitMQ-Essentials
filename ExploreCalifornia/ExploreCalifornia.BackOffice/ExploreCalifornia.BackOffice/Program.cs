@@ -7,8 +7,13 @@ factory.Uri = new Uri("amqp://backoffice:Lumpaxix777@localhost:5672");
 var connection = factory.CreateConnection();
 var channel = connection.CreateModel();
 
+var arguments = new Dictionary<string, object>
+            {
+                {"x-dead-letter-exchange", "DLX"},
+            };
+
 // declare resources here, handle consumed events, etc
-channel.QueueDeclare("backOfficeQueue", true, false, false);
+channel.QueueDeclare("backOfficeQueue", true, false, false, arguments);
 
 var headers = new Dictionary<string, object>
             {
@@ -29,9 +34,11 @@ consumer.Received += (sender, eventArgs) =>
     var action = Encoding.UTF8.GetString(eventArgs.BasicProperties.Headers["action"] as byte[] ?? Array.Empty<byte>());
     //Console.WriteLine($"{eventArgs.RoutingKey} : {message}");
     Console.WriteLine($"{eventArgs.BasicProperties.UserId} -> {subject} {action} : {message}");
+    //channel.BasicReject(eventArgs.DeliveryTag, false);
 };
 
 channel.BasicConsume("backOfficeQueue", true, consumer);
+//channel.BasicConsume("backOfficeQueue", false, consumer);
 Console.ReadLine();
 
 channel.Close();

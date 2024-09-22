@@ -43,6 +43,7 @@ C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.Bac
 C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.AssemblyInfoInputs.cache
 C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.AssemblyInfo.cs
 C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.csproj.CoreCompileInputs.cache
+C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.sourcelink.json
 C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreC.0DD2BC39.Up2Date
 C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\ExploreCalifornia.BackOffice.dll
 C:\RabbitMQ\ExploreCalifornia\ExploreCalifornia.BackOffice\ExploreCalifornia.BackOffice\obj\Debug\net8.0\refint\ExploreCalifornia.BackOffice.dll
