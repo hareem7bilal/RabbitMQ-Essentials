@@ -1,0 +1,51 @@
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQChat.exe
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQChat.deps.json
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQChat.runtimeconfig.json
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQChat.dll
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQChat.pdb
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.csproj.AssemblyReference.cache
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.AssemblyInfoInputs.cache
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.AssemblyInfo.cs
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.csproj.CoreCompileInputs.cache
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQ.8D144066.Up2Date
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.dll
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\refint\RabbitMQChat.dll
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.pdb
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.genruntimeconfig.cache
+C:\RabbitMQ\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\ref\RabbitMQChat.dll
+C:\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQChat.exe
+C:\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQChat.deps.json
+C:\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQChat.runtimeconfig.json
+C:\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQChat.dll
+C:\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQChat.pdb
+C:\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.csproj.AssemblyReference.cache
+C:\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.AssemblyInfoInputs.cache
+C:\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.AssemblyInfo.cs
+C:\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.csproj.CoreCompileInputs.cache
+C:\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQ.8D144066.Up2Date
+C:\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.dll
+C:\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\refint\RabbitMQChat.dll
+C:\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.pdb
+C:\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.genruntimeconfig.cache
+C:\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\ref\RabbitMQChat.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQChat.exe
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQChat.deps.json
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQChat.runtimeconfig.json
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQChat.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQChat.pdb
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.csproj.AssemblyReference.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.AssemblyInfoInputs.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.AssemblyInfo.cs
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.csproj.CoreCompileInputs.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQ.8D144066.Up2Date
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\refint\RabbitMQChat.dll
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.pdb
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.genruntimeconfig.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\ref\RabbitMQChat.dll
