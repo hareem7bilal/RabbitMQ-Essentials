@@ -43,6 +43,7 @@ C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net
 C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.AssemblyInfoInputs.cache
 C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.AssemblyInfo.cs
 C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.csproj.CoreCompileInputs.cache
+C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.sourcelink.json
 C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQ.8D144066.Up2Date
 C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\RabbitMQChat.dll
 C:\Users\hbilal\OneDrive - Zones\Desktop\RabbitMQChat\RabbitMQChat\obj\Debug\net8.0\refint\RabbitMQChat.dll

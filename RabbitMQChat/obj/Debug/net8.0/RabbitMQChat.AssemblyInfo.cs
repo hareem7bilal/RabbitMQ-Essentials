@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RabbitMQChat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8faeb00172e72e2ca88d37bdb7bb98971d17670")]
 [assembly: System.Reflection.AssemblyProductAttribute("RabbitMQChat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RabbitMQChat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
